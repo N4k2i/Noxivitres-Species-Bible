@@ -1,0 +1,49 @@
+title: NOXIVITRES Species Bible
+description: An ultra-detailed BlackGlass cyber-organic species reference.
+url: ""
+baseurl: ""
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+strict_front_matter: true
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+collections:
+  entries:
+    output: true
+    permalink: /entries/:name/
+  plates:
+    output: true
+    permalink: /plates/:name/
+  parts:
+    output: true
+    permalink: /parts/:name/
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: entries
+    values:
+      layout: reference
+      kind: entry
+  - scope:
+      path: ""
+      type: plates
+    values:
+      layout: reference
+      kind: plate
+  - scope:
+      path: ""
+      type: parts
+    values:
+      layout: part
+exclude:
+  - scripts/
+  - vendor/
+  - Gemfile.lock
+  - README.md

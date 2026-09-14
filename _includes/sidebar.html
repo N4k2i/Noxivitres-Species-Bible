@@ -1,0 +1,20 @@
+<aside class="sidebar" id="sidebar" aria-label="Primary navigation">
+  <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">NX</span><span><strong>NOXIVITRES</strong><small>Species Bible</small></span></a>
+  <button class="search-launch" type="button" data-search-open><span>Search the bible</span><kbd>/</kbd></button>
+  <nav class="side-nav">
+    <a href="{{ '/atlas/' | relative_url }}">Reference Atlas</a>
+    <a href="{{ '/rarity/' | relative_url }}">Rarity System</a>
+    <a href="{{ '/founders/' | relative_url }}">Generation Zero</a>
+    <a href="{{ '/browse/' | relative_url }}">Browse Everything</a>
+    <a href="{{ '/tools/character-builder/' | relative_url }}">Character Builder</a>
+    <a href="{{ '/reading-paths/' | relative_url }}">Reading Paths</a>
+    <a href="{{ '/glossary/' | relative_url }}">Glossary</a>
+  </nav>
+  <div class="side-parts" data-part-list>
+    <div class="side-label">18 PARTS</div>
+    {% for part in site.data.parts %}
+    <a class="part-link accent-{{ part.accent }}" href="{{ '/parts/' | append: part.slug | append: '/' | relative_url }}"><span>{{ part.roman }}</span>{{ part.title }}</a>
+    {% endfor %}
+  </div>
+  <div class="sidebar-foot"><a href="{{ '/assets/source/NOXIVITRES_SPECIES_BIBLE.md' | relative_url }}">Raw source Markdown</a></div>
+</aside>

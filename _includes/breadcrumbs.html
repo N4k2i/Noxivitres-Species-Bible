@@ -1,0 +1,5 @@
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+<a href="{{ '/' | relative_url }}">Home</a><span>/</span>
+{% if page.part %}<a href="{{ '/parts/' | append: page.part_slug | append: '/' | relative_url }}">Part {{ page.part_roman }}</a><span>/</span>{% endif %}
+<span>{{ page.title }}</span>
+</nav>

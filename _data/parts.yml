@@ -1,0 +1,108 @@
+- number: 1
+  roman: I
+  title: "Identity & Foundation"
+  slug: identity
+  accent: cyan
+  range: "Entries 001–025"
+- number: 2
+  roman: II
+  title: "Body Plan & Internal Anatomy"
+  slug: anatomy
+  accent: teal
+  range: "Entries 026–050"
+- number: 3
+  roman: III
+  title: "BlackGlass Biology"
+  slug: blackglass
+  accent: magenta
+  range: "Entries 051–075"
+- number: 4
+  roman: IV
+  title: "Nanites & Cybernetics"
+  slug: nanites
+  accent: blue
+  range: "Entries 076–100"
+- number: 5
+  roman: V
+  title: "Morphology & Trait Catalog"
+  slug: morphology
+  accent: violet
+  range: "Entries 101–125"
+- number: 6
+  roman: VI
+  title: "Rarity System"
+  slug: rarity
+  accent: gold
+  range: "Entries 126–150"
+- number: 7
+  roman: VII
+  title: "Development & Life History"
+  slug: development
+  accent: lime
+  range: "Entries 151–175"
+- number: 8
+  roman: VIII
+  title: "Mind, Senses & Expression"
+  slug: mind
+  accent: pink
+  range: "Entries 176–200"
+- number: 9
+  roman: IX
+  title: "Culture & Society"
+  slug: culture
+  accent: amber
+  range: "Entries 201–225"
+- number: 10
+  roman: X
+  title: "Technology, Medicine & Environments"
+  slug: technology
+  accent: aqua
+  range: "Entries 226–250"
+- number: 11
+  roman: XI
+  title: "Character Creation & Open-Species Rules"
+  slug: creation
+  accent: orange
+  range: "Entries 251–275"
+- number: 12
+  roman: XII
+  title: "Lore Seeds, Edge Cases & Creator Toolkit"
+  slug: toolkit
+  accent: silver
+  range: "Entries 276–300"
+- number: 13
+  roman: XIII
+  title: "Generation Zero & Founder-Class Unobtanium"
+  slug: generation-zero
+  accent: red
+  range: "Entries 301–336"
+- number: 14
+  roman: XIV
+  title: "Visual Anatomy & Morphology Atlas"
+  slug: visual-atlas
+  accent: cyan
+  range: "Plates 001–055"
+- number: 15
+  roman: XV
+  title: "BlackGlass Engineering Atlas"
+  slug: blackglass-atlas
+  accent: magenta
+  range: "Plates 056–110"
+- number: 16
+  roman: XVI
+  title: "Vitrite / Nanite Operations Atlas"
+  slug: nanite-atlas
+  accent: blue
+  range: "Plates 111–165"
+- number: 17
+  roman: XVII
+  title: "Rarity, Design & Society Atlas"
+  slug: design-atlas
+  accent: gold
+  range: "Plates 166–220"
+- number: 18
+  roman: XVIII
+  title: "Generation Zero Advanced Atlas"
+  slug: founder-atlas
+  accent: violet
+  range: "Plates 221–275"

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% include breadcrumbs.html %}
+<article class="reference-page">
+<header class="reference-hero"><div class="eyebrow">{{ page.kind | upcase }} {{ page.number }} · PART {{ page.part_roman }}</div><h1>{{ page.title }}</h1><p>{{ page.summary }}</p><div class="ref-meta"><span>{{ page.part_title }}</span><span class="accent-pill">{{ page.system }}</span></div></header>
+<nav class="reference-nav">
+{% if page.prev_url %}<a class="prev" href="{{ page.prev_url | relative_url }}">← <small>Previous</small><strong>{{ page.prev_title }}</strong></a>{% else %}<span></span>{% endif %}
+<a class="up" href="{{ '/parts/' | append: page.part_slug | append: '/' | relative_url }}">Part {{ page.part_roman }}</a>
+{% if page.next_url %}<a class="next" href="{{ page.next_url | relative_url }}"><small>Next</small><strong>{{ page.next_title }}</strong> →</a>{% endif %}
+</nav>
+<div class="reference-grid"><div class="reference-body prose">{{ content }}</div><aside class="toc-rail"><div class="toc-sticky"><strong>On this page</strong><div data-page-toc></div><a href="#main" class="back-top">↑ Back to top</a></div></aside></div>
+<nav class="reference-nav bottom">
+{% if page.prev_url %}<a class="prev" href="{{ page.prev_url | relative_url }}">← <small>Previous</small><strong>{{ page.prev_title }}</strong></a>{% endif %}
+{% if page.next_url %}<a class="next" href="{{ page.next_url | relative_url }}"><small>Next</small><strong>{{ page.next_title }}</strong> →</a>{% endif %}
+</nav>
+</article>

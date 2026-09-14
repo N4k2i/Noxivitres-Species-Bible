@@ -1,0 +1,30 @@
+- name: Common
+  slug: common
+  color: "#78f0a7"
+  status: Open
+  note: Stable and straightforward expressions.
+- name: Uncommon
+  slug: uncommon
+  color: "#45e6e6"
+  status: Open
+  note: Noticeable complexity without major structural departure.
+- name: Rare
+  slug: rare
+  color: "#62a8ff"
+  status: Open
+  note: Major structural deviations and heavier system interaction.
+- name: Legendary
+  slug: legendary
+  color: "#a879ff"
+  status: Open
+  note: Multiple demanding systems operating together.
+- name: Mythic
+  slug: mythic
+  color: "#ff58d8"
+  status: Open
+  note: The extreme open tier; deliberately allowed to get ridiculous.
+- name: Unobtanium
+  slug: unobtanium
+  color: "#ffd166"
+  status: Creator-locked
+  note: Reserved for founder-class or specifically permitted canon-authority concepts.
