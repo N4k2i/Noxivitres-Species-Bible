@@ -8,7 +8,7 @@ part_slug: nanite-atlas
 accent: blue
 description: "Operational reference for Vitrite swarms, command layers, distributed control, maintenance, bandwidth, repair, and failure behavior."
 range: "Plates 111–160"
-count: 50
+reference_count: 50
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/plates/111-vitrite-physical-anatomy/" | relative_url }}"><span class="num">PLATE 111</span><strong>Vitrite Physical Anatomy</strong><small>→</small></a>

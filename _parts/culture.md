@@ -8,7 +8,7 @@ part_slug: culture
 accent: amber
 description: "Culture, communities, etiquette, identity, relationships, ownership boundaries, and everyday social consequences of mutable bodies."
 range: "Entries 201–225"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/201-no-mandatory-single-culture/" | relative_url }}"><span class="num">ENTRY 201</span><strong>No Mandatory Single Culture</strong><small>→</small></a>

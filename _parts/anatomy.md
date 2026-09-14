@@ -8,7 +8,7 @@ part_slug: anatomy
 accent: teal
 description: "The physical architecture under the surface: cores, tissues, skeletons, muscles, circulation, limbs, tails, ears, horns, wings, and floating segments."
 range: "Entries 026–050"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/026-baseline-body-plan/" | relative_url }}"><span class="num">ENTRY 026</span><strong>Baseline Body Plan</strong><small>→</small></a>

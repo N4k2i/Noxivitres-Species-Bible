@@ -8,7 +8,7 @@ part_slug: blackglass-atlas
 accent: magenta
 description: "Engineering-style BlackGlass reference: rewrite logic, stability, mutation state, material behavior, fault modes, and system constraints."
 range: "Plates 056–110"
-count: 55
+reference_count: 55
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/plates/056-blackglass-material-states/" | relative_url }}"><span class="num">PLATE 056</span><strong>BlackGlass Material States</strong><small>→</small></a>

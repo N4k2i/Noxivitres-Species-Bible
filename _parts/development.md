@@ -8,7 +8,7 @@ part_slug: development
 accent: lime
 description: "Origins, conversion, growth, stabilization, aging, adaptation, and the ways a Noxivitre body changes across a life."
 range: "Entries 151–175"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/151-possible-origins/" | relative_url }}"><span class="num">ENTRY 151</span><strong>Possible Origins</strong><small>→</small></a>

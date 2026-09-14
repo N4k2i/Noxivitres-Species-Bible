@@ -8,7 +8,7 @@ part_slug: toolkit
 accent: silver
 description: "Edge cases, canon maintenance, lore seeds, contradiction handling, expansion tools, and the framework for adding new material safely."
 range: "Entries 276–300"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/276-blackglass-outbreak-scenario/" | relative_url }}"><span class="num">ENTRY 276</span><strong>BlackGlass Outbreak Scenario</strong><small>→</small></a>

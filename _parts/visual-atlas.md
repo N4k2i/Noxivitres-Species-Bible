@@ -8,7 +8,7 @@ part_slug: visual-atlas
 accent: cyan
 description: "Detailed visual and anatomical reference plates: coordinate systems, load paths, limb placement, silhouette, clearance, and structural readability."
 range: "Plates 001–055"
-count: 55
+reference_count: 55
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/plates/001-body-map-coordinate-conventions/" | relative_url }}"><span class="num">PLATE 001</span><strong>Body-Map Coordinate Conventions</strong><small>→</small></a>

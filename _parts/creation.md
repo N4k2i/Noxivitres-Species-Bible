@@ -8,7 +8,7 @@ part_slug: creation
 accent: orange
 description: "The practical character-design rules for an open species: how to build a coherent Noxivitre without turning rarity into a checklist."
 range: "Entries 251–275"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/251-making-a-character-from-scratch/" | relative_url }}"><span class="num">ENTRY 251</span><strong>Making a Character From Scratch</strong><small>→</small></a>

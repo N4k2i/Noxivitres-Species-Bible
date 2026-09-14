@@ -8,7 +8,7 @@ part_slug: morphology
 accent: violet
 description: "A practical catalog of body plans and traits, from two-arm builds to extreme asymmetry, wings, multiple tails, liquid limbs, and mixed-animal anatomy."
 range: "Entries 101–125"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/101-two-arm-builds/" | relative_url }}"><span class="num">ENTRY 101</span><strong>Two-Arm Builds</strong><small>→</small></a>

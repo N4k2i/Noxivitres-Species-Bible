@@ -8,7 +8,7 @@ part_slug: technology
 accent: aqua
 description: "Medicine, diagnostics, maintenance, environments, tools, architecture, transportation, and technology built around bodies that can change."
 range: "Entries 226–250"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/226-species-compatible-technology/" | relative_url }}"><span class="num">ENTRY 226</span><strong>Species-Compatible Technology</strong><small>→</small></a>

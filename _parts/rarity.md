@@ -8,7 +8,7 @@ part_slug: rarity
 accent: gold
 description: "The six-tier rarity framework and what it actually measures. Complexity is not power, morality, importance, or social rank."
 range: "Entries 126–150"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/126-why-rarity-exists/" | relative_url }}"><span class="num">ENTRY 126</span><strong>Why Rarity Exists</strong><small>→</small></a>

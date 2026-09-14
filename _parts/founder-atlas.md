@@ -8,7 +8,7 @@ part_slug: founder-atlas
 accent: violet
 description: "Advanced Generation Zero mechanics and founder reference for Riven and Blade, including Origin-class exceptions and permission boundaries."
 range: "Plates 216–275"
-count: 60
+reference_count: 60
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/plates/216-riven-ownership-and-canon-authority/" | relative_url }}"><span class="num">PLATE 216</span><strong>Riven Ownership and Canon Authority</strong><small>→</small></a>

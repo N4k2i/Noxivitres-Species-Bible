@@ -8,7 +8,7 @@ part_slug: identity
 accent: cyan
 description: "The species identity, open-species philosophy, visual language, and the rules that keep Noxivitres recognizable without forcing identical characters."
 range: "Entries 001–025"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/001-the-species-in-one-sentence/" | relative_url }}"><span class="num">ENTRY 001</span><strong>The Species in One Sentence</strong><small>→</small></a>

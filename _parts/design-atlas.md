@@ -8,7 +8,7 @@ part_slug: design-atlas
 accent: gold
 description: "Design, rarity, society, accessibility, presentation, and practical character-building reference plates."
 range: "Plates 161–215"
-count: 55
+reference_count: 55
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/plates/161-rarity-scoring-philosophy/" | relative_url }}"><span class="num">PLATE 161</span><strong>Rarity Scoring Philosophy</strong><small>→</small></a>

@@ -8,7 +8,7 @@ part_slug: generation-zero
 accent: red
 description: "Riven and Blade as Generation Zero, founder-class Unobtanium, Origin Glasshearts, owner authority, and the mechanics reserved to the first pair."
 range: "Entries 301–336"
-count: 36
+reference_count: 36
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/301-generation-zero-canon-at-a-glance/" | relative_url }}"><span class="num">ENTRY 301</span><strong>Generation Zero Canon at a Glance</strong><small>→</small></a>

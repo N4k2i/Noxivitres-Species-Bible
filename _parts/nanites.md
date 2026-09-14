@@ -8,7 +8,7 @@ part_slug: nanites
 accent: blue
 description: "Vitrite nanites, distributed control, repair, construction, expression systems, interfaces, recording, exhaustion, and corruption."
 range: "Entries 076–100"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/076-vitrite-nanites/" | relative_url }}"><span class="num">ENTRY 076</span><strong>Vitrite Nanites</strong><small>→</small></a>

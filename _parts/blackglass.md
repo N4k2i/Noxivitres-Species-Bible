@@ -8,7 +8,7 @@ part_slug: blackglass
 accent: magenta
 description: "BlackGlass as living mutagenic material—compatibility, Glassshifts, duplication, regeneration, mutation memory, rejection, and runaway states."
 range: "Entries 051–075"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/051-what-blackglass-actually-is/" | relative_url }}"><span class="num">ENTRY 051</span><strong>What BlackGlass Actually Is</strong><small>→</small></a>

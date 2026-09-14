@@ -8,7 +8,7 @@ part_slug: mind
 accent: pink
 description: "Perception, cognition, expression, body awareness, sensory filtering, memory support, emotion, and communication."
 range: "Entries 176–200"
-count: 25
+reference_count: 25
 ---
 <div class="directory-grid">
 <a class="directory-item" href="{{ "/entries/176-sapience-and-personhood/" | relative_url }}"><span class="num">ENTRY 176</span><strong>Sapience and Personhood</strong><small>→</small></a>
